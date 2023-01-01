@@ -1,4 +1,4 @@
-<img align="right" alt="gGIF" height="130" width="130" src="https://user-images.githubusercontent.com/97214119/164109159-6ebfa6cd-2e32-4d03-85c1-5816bf8c108e.gif">
+
 
 ## Olá! Sou Geovana Grigorio!
 
@@ -32,8 +32,6 @@
 <a href="geovanagomes832@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"_blank"></a>
 <a href="https://www.instagram.com/geogrigori" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"_blank"></a>
 <a href="https://www.linkedin.com/in/geogrigori/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"_blank"></a>                 
-<a href="https://discord.gg/Tm4WwnrB6K" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"_blank"></a>
-<a href="https://www.twitch.tv/geogrigori" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"_blank"></a>
    
 ![Snake animation](https://github.com/geogrigori/geogrigori/blob/output/github-contribution-grid-snake.svg)
    
